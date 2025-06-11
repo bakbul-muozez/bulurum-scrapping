@@ -1,7 +1,5 @@
 # Bulurum.com Data Scrapping
 
-Projenin amacı Bulurum.com üzerinden seçilen kategori v# Selenium Scraping Tool
-
 A versatile tool to scrape data from bulurum.com based on selected districts and categories. This tool provides both a Command-Line Interface (CLI) and a Graphical User Interface (GUI) for flexibility, allowing users to extract structured data efficiently.
 
 ## Description
